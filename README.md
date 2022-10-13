@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Tian-Whu&theme=material-palenight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Tian-Whu&theme=OneDark&show_icons=true)
 - 🔭 I’m currently working on Wuhan University
 - 🤔 I’m going to enter Institue of Automation, Chinese Acadamy of Sciences
 - 🌱 I’m currently learning Self-Supervised Learning and AutoDriving:blue_car:
