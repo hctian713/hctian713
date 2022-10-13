@@ -3,6 +3,8 @@
 - 🤔 I’m going to enter Institue of Automation, Chinese Acadamy of Sciences
 - 🌱 I’m currently learning Self-Supervised Learning and AutoDriving:blue_car:
 - 📫 How to reach me: email 1779733690@qq.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Tian-Whu&theme=dark&show_icons=true)
+
 <!--
 **Michael-Tian-Whu/Michael-Tian-Whu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
