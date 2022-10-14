@@ -1,11 +1,10 @@
-## :star:Welcome to my Github:star:
-#### Please star&follow if there are something helpful😄
+## :star:Welcome to my Github:star:  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Tian-Whu&theme=aura&show_icons=true)
 - 🔭 I’m currently working on Wuhan University
 - 🤔 I’m going to enter Institue of Automation, Chinese Acadamy of Sciences
 - 🌱 I’m currently learning Self-Supervised Learning and AutoDriving:blue_car:
 - 📫 How to reach me: email 1779733690@qq.com
-
+### Please star&follow if there are something helpful😄
 
 
 <!--
