@@ -1,4 +1,4 @@
-## :star:Hi\
+## :star:Hi \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Tian-Whu&theme=aura&show_icons=true)
 - 🔭 I’m currently working on Wuhan University
 - 🤔 I’m going to enter Institue of Automation, Chinese Acadamy of Sciences
