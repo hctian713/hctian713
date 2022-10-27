@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning Self-Supervised Learning and AutoDriving:blue_car:
 - 📫 How to reach me: email 1779733690@qq.com
 
-![](./profile-3d-contrib/profile-season.svg#gh-light-mode-only)
-![](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
-
 <!--
 **Michael-Tian-Whu/Michael-Tian-Whu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
