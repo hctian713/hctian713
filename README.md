@@ -2,7 +2,7 @@
  ### Please star&follow if there are something helpful😄  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Tian-Whu&theme=aura&show_icons=true)
 - 🔭 I’m currently working on Wuhan University
-- 🤔 I’m going to enter Institue of Automation, Chinese Acadamy of Sciences
+- 🤔 I’m going to enter CRIPAC,NLPR,Institue of Automation,Chinese Acadamy of Sciences
 - 🌱 I’m currently learning Self-Supervised Learning and AutoDriving:blue_car:
 - 📫 How to reach me: email 1779733690@qq.com
 
