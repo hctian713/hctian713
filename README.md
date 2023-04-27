@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Wuhan University
 - 🤔 I’m going to enter CRIPAC,NLPR,Institue of Automation,Chinese Acadamy of Sciences
 - 🌱 I’m currently learning Self-Supervised Learning and AutoDriving:blue_car:
-- 📫 How to reach me: email 1779733690@qq.com
+- 📫 How to reach me: email tianhaochen2023@ia.ac.cn
 
 <!--
 **Michael-Tian-Whu/Michael-Tian-Whu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
