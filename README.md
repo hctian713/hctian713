@@ -1,7 +1,6 @@
 ## :star:Welcome to my Github:star:  
  ### Please star&follow if there are something helpful😄  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hctian713&theme=aura&show_icons=true)
--  I’m currently working on Wuhan University
 - 🔭 I’m a M.Sc. in CRIPAC, MAIS, Institue of Automation, Chinese Acadamy of Sciences
 - 🧠 I’m currently learning 3D perception, SSL, and VFM in AutoDriving:blue_car:
 - 📫 How to reach me: email tianhaochen2023@ia.ac.cn
