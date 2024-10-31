@@ -1,5 +1,5 @@
 ## :star:Welcome to my Github:star:  
- ### Please star&follow if there are something helpful😄  
+ ### Please star and follow if you find something helpful! 😄  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hctian713&theme=aura&show_icons=true)
 - 🔭 I’m a 2nd M.Sc. in NLPR, MAIS, Institute of Automation, Chinese Acadamy of Sciences
 - 🧠 I’m currently learning 3D perception, E2E, and VLM in AutoDriving 🚗
