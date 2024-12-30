@@ -3,7 +3,6 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hctian713&theme=aura&show_icons=true)
  <p align="left">
     <img src="https://img.shields.io/badge/Major-AD-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff" />
-    **<img src="https://img.shields.io/badge/GitHub-Luo--Z13-blue?logo=github" />**
     <img src="https://komarev.com/ghpvc/?username=hctian713&abbreviated=true&color=yellow" />
 </p>
 - 🔭 I’m a 2nd M.S. in NLPR, MAIS, Institute of Automation, Chinese Acadamy of Sciences
