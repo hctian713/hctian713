@@ -7,7 +7,11 @@
 
 <!--
 **Michael-Tian-Whu/Michael-Tian-Whu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="left">
+    <img src="https://img.shields.io/badge/Major-AD-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff" />
+    **<img src="https://img.shields.io/badge/GitHub-Luo--Z13-blue?logo=github" />**
+    <img src="https://komarev.com/ghpvc/?username=hctian713&abbreviated=true&color=yellow" />
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
