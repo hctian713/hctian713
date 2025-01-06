@@ -8,7 +8,7 @@
 
 - 🔭 I’m a 2nd M.S. in NLPR, MAIS, Institute of Automation, Chinese Acadamy of Sciences
 - 🧠 I’m currently learning 3D perception, E2E, and VLM in AutoDriving 🚗
-- 📫 How to reach me: email tianhaochen2023@ia.ac.cn
+- 📫 How to reach me: email tianhaochen2023 AT ia.ac.cn
 
 <!--
 **Michael-Tian-Whu/Michael-Tian-Whu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
