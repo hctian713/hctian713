@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=hctian713&abbreviated=true&color=yellow" />
 </p>
 
-- 🔭 I’m a 2nd M.S. in NLPR, MAIS, Institute of Automation, Chinese Acadamy of Sciences
+- 🔭 I’m a 2nd Ph.D in NLPR, MAIS, Institute of Automation, Chinese Acadamy of Sciences
 - 🧠 I’m currently learning 3D perception, E2E, and VLM in AutoDriving 🚗
 - 📫 How to reach me: email tianhaochen2023 AT ia.ac.cn
 
