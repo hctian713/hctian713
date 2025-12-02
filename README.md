@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m a 2nd Ph.D in NLPR, MAIS, Institute of Automation, Chinese Acadamy of Sciences
-- 🧠 I’m currently learning E2E and VLA in AutoDriving 🚗
+- 🧠 I’m currently learning E2E, WM and VLA in AutoDriving 🚗
 - 📫 How to reach me: email tianhaochen2023 AT ia.ac.cn
 
 <!--
