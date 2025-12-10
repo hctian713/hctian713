@@ -2,12 +2,13 @@
  ### Please star and follow if you find something helpful
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hctian713&theme=aura&show_icons=true)
  <p align="left">
-    <img src="https://img.shields.io/badge/Major-AD-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Major-Robotics-5F269F?style=flat&logo=ABB%20RobotStudio" />
+    <img src="https://img.shields.io/badge/Major-AD-609926?style=flat&logo=ABB%20RobotStudio" />
     <img src="https://komarev.com/ghpvc/?username=hctian713&abbreviated=true&color=yellow" />
 </p>
 
-- 🔭 I’m a 2nd Ph.D in NLPR, MAIS, Institute of Automation, Chinese Acadamy of Sciences
-- 🧠 I’m currently learning E2E, WM and VLA in AutoDriving 🚗
+- 🔭 I’m a 2nd Ph.D in NLPR, MAIS, Institute of Automation, Chinese Academy of Sciences
+- 🧠 I’m currently learning E2E, WM and VLA in AutoDriving 🚗 and Robotics 🤖
 - 📫 How to reach me: email tianhaochen2023 AT ia.ac.cn
 
 <!--
