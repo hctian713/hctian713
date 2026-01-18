@@ -2,8 +2,8 @@
  ### Please star and follow if you find something helpful
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hctian713&theme=aura&show_icons=true)
  <p align="left">
-    <img src="https://img.shields.io/badge/Major-Robotics-5F269F?style=flat&logo=ABB%20RobotStudio" />
-    <img src="https://img.shields.io/badge/Major-AD-609926?style=flat&logo=ABB%20RobotStudio" />
+    <img src="https://img.shields.io/badge/Major-Robotics-5F269F?style=flat-square&logo=ABB%20RobotStudio" />
+    <img src="https://img.shields.io/badge/Major-AD-609926?style=flat-square&logo=ABB%20RobotStudio" />
     <img src="https://komarev.com/ghpvc/?username=hctian713&abbreviated=true&color=yellow" />
 </p>
 
