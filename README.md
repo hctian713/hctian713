@@ -7,13 +7,14 @@
     <img src="https://komarev.com/ghpvc/?username=hctian713&abbreviated=true&color=yellow" />
 </p> -->
 
+- [![Google](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DoyuNwEAAAAJ)
+[![Resume](https://img.shields.io/badge/Resume-019B8F?style=flat-square&logo=readdotcv)](https://github.com/hctian713/hctian713/blob/main/Haochen_Tian_s_Resume.pdf) 
+[![X](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x)](https://x.com/HCTian713)
 - 🔭 I am a second-year Ph.D. student at [NLPR, MAIS, CASIA](http://www.cripac.ia.ac.cn/CN/model/index.htm) advised by [Prof. Tieniu Tan](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129881.html). 
 - ⚡ I am also a research intern at [OpenDriveLab, HKU](https://opendrivelab.com/) and [Xiaomi EV](https://www.xiaomiev.com/).  
 - 🔍 My research focuses on **Scalable Physical AI** and **General MultiModal AI**. 
 - 📧 I am open to collaboration — feel free to reach out at [tianhaochen2023@ia.ac.cn](tianhaochen2023@ia.ac.cn).
-- [![Google](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DoyuNwEAAAAJ)
-[![Resume](https://img.shields.io/badge/Resume-019B8F?style=flat-square&logo=readdotcv)](https://github.com/hctian713/hctian713/blob/main/Haochen_Tian_s_Resume.pdf) 
-[![X](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x)](https://x.com/HCTian713)
+
 
 <!--
 **Michael-Tian-Whu/Michael-Tian-Whu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
