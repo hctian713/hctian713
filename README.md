@@ -13,7 +13,7 @@
 - 🔭 I am a second-year Ph.D. student at [NLPR, MAIS, CASIA](http://www.cripac.ia.ac.cn/CN/model/index.htm) advised by [Prof. Tieniu Tan](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129881.html). 
 - ⚡ I am also a research intern at [OpenDriveLab, HKU](https://opendrivelab.com/) and [Xiaomi EV](https://www.xiaomiev.com/).  
 - 🔍 My research focuses on **Scalable Physical AI** and **General MultiModal AI**. 
-- 📧 I am open to collaboration — feel free to reach out at [tianhaochen2023@ia.ac.cn](tianhaochen2023@ia.ac.cn).
+- 📧 I am open to collaboration — feel free to reach out at tianhaochen2023@ia.ac.cn.
 
 
 <!--
